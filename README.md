@@ -1,4 +1,4 @@
-# Coffee Sales Analysis Project and Interactive Dashboard with Excel
+# :bar_chart::chart_with_upwards_trend: Coffee Sales Analysis Project and Interactive Dashboard with Excel
 
 <p align="center">
   <img src="https://github.com/FedeMaguire/Coffee_Sales-Interactive_Dashboard-Excel/blob/main/Screenshot1.png?raw=true" width=100%>
@@ -10,6 +10,9 @@
 <p align="center">
   <img src="https://github.com/FedeMaguire/Coffee_Sales-Interactive_Dashboard-Excel/blob/main/Screenshot%202.jpg?raw=true" width=100%>
 </p>
+
+# Why This Project?
+This project serves as a testament to your proficiency in Excel and data analysis. By focusing on coffee sales, it demonstrates your ability to tackle specific industry-related challenges and deliver actionable insights.
 
 # Key Features:
 
