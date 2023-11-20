@@ -1,11 +1,15 @@
 # :bar_chart::chart_with_upwards_trend: Coffee Sales Analysis and Interactive Dashboard with Excel
 
 <p align="center">
-  <img src="https://github.com/FedeMaguire/Coffee_Sales-Interactive_Dashboard-Excel/blob/main/Screenshot1.png?raw=true" width=100%>
+  <img src="https://github.com/FedeMaguire/Coffee_Sales-Interactive_Dashboard-Excel/blob/main/grocery-sales.jpg?raw=true" width=100%>
 </p>
 
 # Overview
 **This project showcases proficiency in data acquisition, cleaning, and transformation, specifically focusing on coffee sales data. Utilizing advanced Excel functions, the raw data is transformed into a structured, analyzable format.**
+
+<p align="center">
+  <img src="https://github.com/FedeMaguire/Coffee_Sales-Interactive_Dashboard-Excel/blob/main/Screenshot1.png?raw=true" width=100%>
+</p>
 
 <p align="center">
   <img src="https://github.com/FedeMaguire/Coffee_Sales-Interactive_Dashboard-Excel/blob/main/Screenshot%202.jpg?raw=true" width=100%>
