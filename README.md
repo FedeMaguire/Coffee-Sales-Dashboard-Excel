@@ -1,4 +1,4 @@
-# :bar_chart::chart_with_upwards_trend: Coffee Sales Analysis and Interactive Dashboard with Excel
+# :bar_chart::chart_with_upwards_trend::coffee: Coffee Sales Analysis and Interactive Dashboard with Excel
 
 <p align="center">
   <img src="https://github.com/FedeMaguire/Coffee_Sales-Interactive_Dashboard-Excel/blob/main/grocery-sales.jpg?raw=true" width=100%>
